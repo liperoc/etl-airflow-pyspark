@@ -1,0 +1,9 @@
+fromCurrency,toCurrency,high,low,name,updatedAtDate
+USD,BRL,4.9166,4.871,Dólar Americano/Real Brasileiro,2023-11-08 18:29:56
+EUR,BRL,5.2516,5.2516,Euro/Real Brasileiro,2023-11-08 19:00:10
+GBP,BRL,6.035,6.0314,Libra Esterlina/Real Brasileiro,2023-11-08 19:00:08
+JPY,BRL,0.03253,0.03253,Iene Japonês/Real Brasileiro,2023-11-08 19:00:13
+CNY,BRL,0.6753,0.6691,Yuan Chinês/Real Brasileiro,2023-11-08 18:30:02
+AED,BRL,1.3386,1.3262,Dirham dos Emirados/Real Brasileiro,2023-11-08 18:59:46
+CHF,BRL,5.4534,5.4534,Franco Suíço/Real Brasileiro,2023-11-08 19:00:36
+ARS,BRL,0.014,0.014,Peso Argentino/Real Brasileiro,2023-11-08 19:00:08
